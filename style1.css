@@ -1,0 +1,47 @@
+.body{
+    background-color:cornflowerblue
+}
+.flex-container{
+    display: flex;
+    position: relative;
+    padding: 10px;
+   
+}
+
+.child{
+    border-radius: 5px;
+    background-color: aquamarine;
+  margin: 10px;
+    text-align: center;
+    height: 250px;
+    width: 400px;
+}
+.child1{
+    border-radius: 5px;
+    background-color: aquamarine;
+   padding: 25px;
+    margin: 10px;
+    text-align: center;
+}
+.child2{
+   
+    border-radius: 5px;
+    height: 250px;
+    position: relative;
+    width: 400px;
+   
+  top: 5px;  
+   
+}
+   
+}
+table{
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 10px;
+    border-color: grey;
+}
+}
+
